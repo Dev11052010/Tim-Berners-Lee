@@ -1,0 +1,57 @@
+#home{
+    height:100vh;
+    background:linear-gradient(#c74cb2 50%,#00ffff 100%)    
+}
+body{
+    text-align: center
+}
+#Del{
+    width:400px;
+    height:200px;
+    border-radius:50%
+}
+#Charlie{
+    margin-left: 10%;
+   padding-top: 20%;
+       text-align:center;
+}s
+#p1{
+    width:400px;
+    margin-left: 40%
+}
+#About{
+    height: 100vh;                                                                        
+    text-align: center;
+}
+.line{
+    height: 2px;
+    background-color: black;
+    width:30px;
+    margin-left: 50%
+}
+.Menu{
+    list-style: none;
+    background-color: black;
+    padding: 10px;
+    position:fixed;
+    width: 100%
+}
+.link{
+    display: inline;
+    margin-left: 10px;
+    margin-right:10px;
+    color: antiquewhite;
+    font-size: 20px;
+    padding: 10px
+}
+a{
+    text-decoration: none;
+      color: antiquewhite; 
+    width: 100%
+}
+body{
+    font-family: 'M PLUS 1 Code', sans-serif;
+}
+.link:hover{
+    background-color: dimgrey
+}
